@@ -5,7 +5,7 @@ This repo's main purpose is to help newbies to complete the Hacktoberfest Challe
                                          STEPS:-
 1. Create a GitHub account( It's free )        
 2. Go to https://hacktoberfest.digitalocean.com and sign up for a new profile by providing authentication with Github.
-3. Then go to Then go to https://github.com/technojam/Hacktoberfest-2020-Baby and click on "star" and *"fork"*.
+3. Then go to Then go to ### and click on "star" and *"fork"*.
 4. Now click on the "Programs" folder and click on "new file".
 5. Type the name of the code with the proper extensions and then type the codekeyboard in the given area. For eg.- factorial.py
 6.  Go to the bottom of the page and click on the "Commit changes"button.
